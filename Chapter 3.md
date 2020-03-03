@@ -4,10 +4,13 @@
 
 考虑到Merovingian之前对暗杀者事件的插手，Zion开始将他视为停战协议和Matrix安稳的威胁。
 >The Merovingian is known to frequently use areas that exist outside of the main Matrix simulation to conduct his business away from the surveillance of the Machines. These pocket worlds are called “constructs” and are a vital part of the Merovingian’s power base.
+
 （翻译难点：construct、simulation）
 
 Zion派人四处调查，想要获得更多关于constructs network的信息，调查过程中却遭到了一种新型流亡程序的阻挠，这种流亡程序被称为“恐怖狼人”（Dire Lupines）。Zion对获得的数据进行分析发现，这些“恐怖狼人”是普通狼人的改进版本，他们的行动隐蔽性更强，因此对付起来也更加危险。一位密探在战斗过程中从一个升级版狼人口中获得了一条讯息：“你不能去碰The Effectuator”（这个名字TM的要怎么翻译）。
+
 Zion后来追查到了一条construct通道的一个控制终端的位置（什么鬼）。在清除了守在通道附近的升级版狼人后，Zion的密谈选择进入这个通道，结果遇到了The Effectuator本人。这位流亡程序突然出现，展示自己的复制能力，告诉密探他在Matrix中没有实体、不会受伤且想去哪就去哪。他承认自己就是主管恐怖狼人和construct pocket words的程序，受雇于Merovingian，然后就突然消失，留下了这位密探一个人和更多的狼人战斗。
+
 Mega City中四处开始出现一些奇怪的盒子。目击到面具匪徒出现在这些盒子周围。然而一些目击者却被将军手下的突击队员杀害了。机器因此开始对这些突击队员发动进攻，在某次进攻中他们发现了一份机密文件，上面有一位关于“上校”（the Colonel）的信息。在解密了上校的所在地后，机器打算发动袭击并删除上校。就在此时上校提醒机器去检查“农场”中某个特定区域的广播信号。那里放置了一个爆炸装置，引爆信号与上校的RSI相连接，一旦上校被删除，那么炸弹就会被引爆，杀死好几百个沉睡中的蓝药丸。机器不得不暂时撤退。
 >Machines operatives are able to break into a Commando base and receive the deactivation codes for the pod bomb and it is eventually disarmed despite heavy Commando resistance at the transmitting station. Without the pod bomb protecting him the Colonel is again targeted for deletion. It takes a couple of dead ends but Machines operatives finally find his hiding place and are able to take down the deadly Commando.
 
@@ -21,7 +24,9 @@ Mega City中四处开始出现一些奇怪的盒子。目击到面具匪徒出�
 >（此处应有一张过场动画大特写截图）
 
 Cryptos的布道迅速引起了Zion的警惕，Zion派人调查Cryptos和Cypher追随者之间的联系。而Anome则决定不顾Zion和机器日渐友好的关系，私下派人对机器的某个网络节点进行了监听。反正确定了Cryptos是一位觉醒人类。监听被机器方发现了，Tyndall和Lock将事件平息了下来。
+
 机器阵营的人类发现了帮Veil逃出Zion的密谋。与此同时Merovingian对这些戴面具的匪徒开始感兴趣（可能是想要利用Cypher追随者牵制Zion）。他的密探也得知了解救Veil的密谋。不知咋地Veil就逃了出去。逃了出去后Veil和Merovingian又开会，达成了什么互相利用的交易。
+
 机器方突然宣布退出对Cypher追随者、Veil和Cryptos的追查。人类很困惑。面具匪徒又开始出现在各大干线中不分阵营地攻击Redpills。
 
 # 3.3节：Veil of Cryptos
@@ -32,20 +37,29 @@ Niobe和她的追随者私下在Richland的某个屋顶开了个会。Niobe告�
 >（此处应有过场动画截图）
 
 Merovingian听说了有这么一场会议，于是用尽手段想要得知会议的内容，比如黑进某个Zion的数据库啥的。可当他们黑进数据库时却发现数据已经被删除了。Merovingian还是Flood？很气，想报复Zion，于是让他手下的人伪装成Zion方的人去攻击Cypher追随者，以挑起这两拨人的冲突。但是由于Cypher追随者现在正是Zion对付的重点，所以多这么一拨攻击他们的人其实也没造成多大的影响。
+
 为了把事情搞大点，Flood利用Veil和他们达成的交易进入了Cypher追随者的某个站点。很可惜这个站点的电脑都是些随机排列的数字和字母，可他们还是发现了一些有用的东西：在记录的最后有一串数字，对应着Union Hill中装有Cryptos盒子的坐标。又一条说明Cryptos和Cypher追随者之间存在联系的证据。
+
 反正又是一串我看不太懂的操作，Flood成功伪装了Zion队伍毁坏了Union Hill的盒子。于是Cypher追随者对Zion的进攻加剧，Zion的人追踪到了某个Cypher追随者的站点，发现了一份报告说明了Union Hill的Cryptos盒子出了错要增加安保啥的，于是Zion这边也更确认了这些盒子与Cypher追随者之间的关系。
+
 然后又是一串麻烦的操作，什么Cypher追随者开发改变Zion通信的病毒而Merovingian成功植入了改路器，终于获得了有用的信息：所有人不准攻击突击队员的命令。
 
-*机器方的一位通讯员失踪了，而这位通讯员手上有一个装有重要东西的手提箱。这位通讯员最后出现的地方是Kedemoth区，而一当Gray特工带着他的人进入建筑里，就被一群黑帮“狂怒”（Furies）的成员团团围住。收拾掉这帮流亡程序后，Gray带着一帮人来到黑帮当地的基地来审问他们的头领。她表示“狂怒”与这位通讯员的失踪无关，并表示当地流亡程序团的老大Argon可能知道些什么。
-在和Argon谈话后，Argon表示他们应该去找Kalt化工的老板Kalt，手提箱内容物的创造者谈谈。Gray表示他不想将Kalt牵扯进这件事，但最终还是同意做了必要的预约。*
+*机器方的一位通讯员失踪了，而这位通讯员手上有一个装有重要东西的手提箱。这位通讯员最后出现的地方是Kedemoth区，而一当Gray特工带着他的人进入建筑里，就被一群黑帮“狂怒”（Furies）的成员团团围住。收拾掉这帮流亡程序后，Gray带着一帮人来到黑帮当地的基地来审问他们的头领。她表示“狂怒”与这位通讯员的失踪无关，并表示当地流亡程序团的老大Argon可能知道些什么。*
+
+*在和Argon谈话后，Argon表示他们应该去找Kalt化工的老板Kalt，手提箱内容物的创造者谈谈。Gray表示他不想将Kalt牵扯进这件事，但最终还是同意做了必要的预约。*
 
 Zion对Cryptos进行了更深入的调查，在the latest hidden Sentinel relays中揭露在Neo带来和平之前，Cryptos曾是Zion的一位船长。什么卫报中没有说的是他的船员们已经“退休”回到Matrix中生活了。于是Zion派人去黑进了一座蓝药丸市民数据库中去寻找那些已经退休的船员的住处（所在？）。
+
 突破了重重防火墙后Zion的人终于找到了这些老船员的所在——不过只有两个还活着。
+
 第一次采访没什么成果。那位旧船员已经和一位蓝药丸结婚了，看到Zion的人来敲门时她很不高兴。然而就当Zion调查员要离开时，她提到她一向离Cryptos、Morpheus还有其他的所谓“拯救者”远远的。这不仅令人怀疑：难道Cryptos以前是像Morpheus那样的人？
+
 第二次采访则提供了更有用的情报：这一位旧船员告诉他们Cryptos曾是机器文明的激进反对者。更有趣的是，他也曾经是Cypher的好友。
-Gray则联系了他的调查小队：他已经安排好了和Kalt的见面。Kalt表示她不知道小偷是谁，但在现场留下了一个类似信号干扰器的设备。据她所知唯一一个能写出这种程序的是一位名为Silver的流亡程序研究员。
+
+*Gray则联系了他的调查小队：他已经安排好了和Kalt的见面。Kalt表示她不知道小偷是谁，但在现场留下了一个类似信号干扰器的设备。据她所知唯一一个能写出这种程序的是一位名为Silver的流亡程序研究员。
 于是机器调查小队又去了Kalt给出的那个地址——一座位于Camon Heights的寒酸公寓，什么最新的藏身处。Silver看到他们时并不惊讶，实际上这正是他所期待的。他告诉他们Demons Army gang of Tabor Park要求他制造能够屏蔽机器扫描的干扰设备，他们甚至亲自提供了一块主要的零件。但他们是怎么拿到这个设备的他就不知道了？？？
-然后机器调查小队又去了Tabor Park，清除了Demon Armies的基地并找到了一份挺有用的数据盘。
+然后机器调查小队又去了Tabor Park，清除了Demon Armies的基地并找到了一份挺有用的数据盘。*
+
 回到Zion这边。Zion打算再深入调查Cryptos的过去，可不幸的是，关于他之前在Zion的行动的档案都有被人为篡改过的痕迹。Lock怀疑这其中有什么阴谋。Zion不知咋的还是将Cryptos和两位field operatives的失踪联系了起来。于是开始寻找这两位失踪的战士。
 一条线索：这两位战士的一位众所周知喜欢沉溺于Matrix仿真与谎言的朋友可能与他们的失踪有关。当他们到达这位嫌疑人的地址时，他们遇到了heavy？Cypher追随者活动。把这帮人打败后他们发现其中一位失踪的士兵被锁在了地下室里。士兵告诉他们他们两个因为“知道的太多”而被绑架了，关押在两个不同的地方。幸好他从守卫的对话中无意间听到了另一个人的所在地。他指引这调查小队去营救，就及时营救下了另外一个人。
 在听说了有关Cryptos的疑云后，这两位士兵回忆起了停战协议达成的几个星期前Cryptos突然发生的一些变化。据他们所言，他突然更加激进地敌视机器，然后也不和人交谈，就会碎碎念什么机器都是邪恶的要把整个simulation都关掉。到后来他甚至会催促人们快去唤醒那些还没做好准备的沉睡者。这条信息真是太有趣了，看来他从一位激进的红药丸变成了一位同样激进的Cypher追随者。
